@@ -1,0 +1,22 @@
+
+TOP 5 INSIGHTS - Customer Churn Analysis
+==========================================
+1. Overall churn rate is 26.5% (1869 of 7043 customers).
+
+2. Contract type is the strongest churn driver: month-to-month customers
+   churn at 42.7%, vs
+   11.3% for one-year and
+   2.8% for two-year contracts.
+
+3. Customers with higher MonthlyCharges churn more often - the churned
+   group has a noticeably higher median monthly bill than the retained
+   group (see boxplot), suggesting price sensitivity or dissatisfaction
+   with premium add-ons (fiber, streaming bundles).
+
+4. New customers (TenureGroup 0-12 months) churn at a much higher rate
+   than long-tenured customers, indicating the first year is the highest-
+   risk window - onboarding and early engagement matter most.
+
+5. Payment method correlates with churn: customers paying via electronic
+   check churn more than those on automatic bank transfer / credit card,
+   possibly reflecting a less "sticky" payment relationship.
