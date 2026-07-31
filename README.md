@@ -1,4 +1,4 @@
-# Task 3: Customer Churn Data Preparation & EDA
+Customer Churn Data Preparation & EDA
 
 ## Objective
 Prepare telecom customer data for modeling through cleaning, feature
